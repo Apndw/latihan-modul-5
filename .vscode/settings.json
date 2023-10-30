@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.meta": "xml",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
